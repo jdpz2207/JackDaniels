@@ -1,2 +1,3 @@
- for i in range(100):
- 	print("The number is %d"%(i))
+import numpy as np
+for i in range(100):
+    print("The number is %d"%(i))
